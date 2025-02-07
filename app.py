@@ -98,7 +98,8 @@ st.markdown("# :rainbow[Ethnicity Detection using Images]")
 # Sidebar for Information with images
 with st.sidebar:
 
-    st.image("images\logo.webp", width=350) 
+    st.image("https://raw.githubusercontent.com/kashh56/CNN-Ethnicity-Predictor/main/images/logo.webp",width=350)
+ 
 
     st.header(":rainbow[About the App]")
     st.markdown("""
