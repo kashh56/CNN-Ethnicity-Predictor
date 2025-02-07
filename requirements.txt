@@ -4,3 +4,4 @@ numpy
 streamlit
 tensorflow-keras
 keras
+requests
